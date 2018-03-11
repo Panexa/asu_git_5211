@@ -1,8 +1,6 @@
 Vadim Zhydkov
 
-'''python
 print("Hello World")
-'''
 
 - [Habrahabr][1]
 - [Wikipedia][2]
